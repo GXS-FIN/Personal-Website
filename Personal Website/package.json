@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s035f2r",
+  "name": "scrim-s035f2r",
   "description": "https://scrimba.com/frontend-path-c0j/~0u/s0c2fcjlie/head",
   "scripts": {
     "start": "vite",
@@ -8,7 +8,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vite": "latest"
+    "vite": "^6.2.2"
   },
-  "devDependencies": {}
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
